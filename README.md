@@ -1,8 +1,7 @@
 [![Build Status](https://travis-ci.org/raghuveerkancherla/whistle.png?branch=master)](https://travis-ci.org/raghuveerkancherla/whistle) whistle
 =======
 
-![alt tag](http://i.imgur.com/UfkkhDF.png)
-
+![alt tag](http://i.imgur.com/3xrnU16.png)
 Whistle is a new way to build web applications. It takes an api driven development approach. 
 
 
